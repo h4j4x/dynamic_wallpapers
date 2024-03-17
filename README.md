@@ -1,11 +1,11 @@
 # Dynamic Wallpapers
 
-Check [Original inspiration](https://github.com/manishprivet/dynamic-gnome-wallpapers).
+Check [original inspiration](https://github.com/manishprivet/dynamic-gnome-wallpapers).
 
 ## Gnome
 
 - Gnome shell installation.
-- **unzip** and **curl** commands available.
+- **unzip** command available.
 
 ### Installation
 
