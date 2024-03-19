@@ -77,7 +77,8 @@ sed -i "s+$PLACEHOLDER+$LOCATION+g" $THEME-timed.xml
 
 # Create required directories & files
 mkdir $LOCATION/backgrounds/gnome/$THEME-timed
-cp $THEME*.jp* $LOCATION/backgrounds/gnome/$THEME-timed
+cp $THEME*.* $LOCATION/backgrounds/gnome/$THEME-timed
+rm $LOCATION/backgrounds/gnome/$THEME-timed/*.xml
 cp $THEME-timed.xml $LOCATION/backgrounds/gnome
 cp $THEME.xml $LOCATION/gnome-background-properties
 echo ""
