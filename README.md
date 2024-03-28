@@ -10,6 +10,10 @@ Check [original inspiration](https://github.com/manishprivet/dynamic-gnome-wallp
 ### Installation
 
 ```shell
+# from github
+wget -O- https://raw.githubusercontent.com/h4j4x/dynamic_wallpapers/main/gnome/install.sh | bash
+
+# if you clone the repo
 sh gnome/install.sh
 ```
 
