@@ -9,11 +9,9 @@ Check [original inspiration](https://github.com/manishprivet/dynamic-gnome-wallp
 
 ### Installation
 
-```shell
-# from github
-wget -O- https://raw.githubusercontent.com/h4j4x/dynamic_wallpapers/main/gnome/install.sh | bash
+Clone the repo, then:
 
-# if you clone the repo
+```shell
 sh gnome/install.sh
 ```
 
